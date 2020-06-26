@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    background-color: #3190C5;
+}
+
+canvas {
+    margin: 10px;
+}
+
+.button-container {
+    margin-top: 25px;
+    text-align: center;
+}
+
+button {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    background-color: #B0E1F9;
+    color: black;
+    outline: none;
+}
+
+button:hover {
+    background-color: #60B7DE;
+}
